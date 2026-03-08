@@ -1,7 +1,5 @@
 # Chat Control: Social Media Analysis Pipeline
 
-
-## Project Overview
 This pipeline analyzes the online debate regarding the European “Chat Control” proposal using Reddit data. It combines **Social Network Analysis (SNA)** to map interactions and **Social Content Analysis (SCA)** to extract sentiment and themes.
 
 ## 1. Project Structure
